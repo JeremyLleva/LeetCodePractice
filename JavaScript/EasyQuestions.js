@@ -99,3 +99,4 @@ console.log("Single Number: ")
 console.log("Input: Array: [" + singleNumberTest + "]");
 console.log("Output: " + singleNumber(singleNumberTest) );
 console.log("");
+
